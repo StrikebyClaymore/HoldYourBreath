@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Scenes/NotIncluded/Ass.gd" type="Script" id=1]
+
+[node name="Ass" type="Spatial"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0.302621, 1.6901, -15.3946 )
+script = ExtResource( 1 )
+emiting = true

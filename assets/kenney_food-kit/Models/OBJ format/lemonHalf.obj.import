@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/lemonHalf.obj-e577e49377f0961fdd68a50148dfd6ed.mesh"
+
+[deps]
+
+files=[ "res://.import/lemonHalf.obj-e577e49377f0961fdd68a50148dfd6ed.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/lemonHalf.obj"
+dest_files=[ "res://.import/lemonHalf.obj-e577e49377f0961fdd68a50148dfd6ed.mesh", "res://.import/lemonHalf.obj-e577e49377f0961fdd68a50148dfd6ed.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

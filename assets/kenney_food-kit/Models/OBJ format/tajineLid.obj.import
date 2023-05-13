@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/tajineLid.obj-941bf7733c867c297f8ed73b75afee4d.mesh"
+
+[deps]
+
+files=[ "res://.import/tajineLid.obj-941bf7733c867c297f8ed73b75afee4d.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/tajineLid.obj"
+dest_files=[ "res://.import/tajineLid.obj-941bf7733c867c297f8ed73b75afee4d.mesh", "res://.import/tajineLid.obj-941bf7733c867c297f8ed73b75afee4d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

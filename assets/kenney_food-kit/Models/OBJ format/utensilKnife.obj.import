@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/utensilKnife.obj-323bb23aa234d16a20e54037d69f399a.mesh"
+
+[deps]
+
+files=[ "res://.import/utensilKnife.obj-323bb23aa234d16a20e54037d69f399a.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/utensilKnife.obj"
+dest_files=[ "res://.import/utensilKnife.obj-323bb23aa234d16a20e54037d69f399a.mesh", "res://.import/utensilKnife.obj-323bb23aa234d16a20e54037d69f399a.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

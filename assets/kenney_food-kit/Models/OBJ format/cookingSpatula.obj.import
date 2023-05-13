@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookingSpatula.obj-857189dd4c8205becbb1eff059c61ace.mesh"
+
+[deps]
+
+files=[ "res://.import/cookingSpatula.obj-857189dd4c8205becbb1eff059c61ace.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/cookingSpatula.obj"
+dest_files=[ "res://.import/cookingSpatula.obj-857189dd4c8205becbb1eff059c61ace.mesh", "res://.import/cookingSpatula.obj-857189dd4c8205becbb1eff059c61ace.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

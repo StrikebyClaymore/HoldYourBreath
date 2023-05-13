@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/burger.obj-12ec5c7a1795ace24e84fa4d18baaace.mesh"
+
+[deps]
+
+files=[ "res://.import/burger.obj-12ec5c7a1795ace24e84fa4d18baaace.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/burger.obj"
+dest_files=[ "res://.import/burger.obj-12ec5c7a1795ace24e84fa4d18baaace.mesh", "res://.import/burger.obj-12ec5c7a1795ace24e84fa4d18baaace.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

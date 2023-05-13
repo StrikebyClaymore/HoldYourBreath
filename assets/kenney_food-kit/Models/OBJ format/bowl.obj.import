@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/bowl.obj-65c3a14f8648795fe8dcd6ad4010515d.mesh"
+
+[deps]
+
+files=[ "res://.import/bowl.obj-65c3a14f8648795fe8dcd6ad4010515d.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/bowl.obj"
+dest_files=[ "res://.import/bowl.obj-65c3a14f8648795fe8dcd6ad4010515d.mesh", "res://.import/bowl.obj-65c3a14f8648795fe8dcd6ad4010515d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/shakerPepper.obj-c8bcbecc9910080db487364f5c96444b.mesh"
+
+[deps]
+
+files=[ "res://.import/shakerPepper.obj-c8bcbecc9910080db487364f5c96444b.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/shakerPepper.obj"
+dest_files=[ "res://.import/shakerPepper.obj-c8bcbecc9910080db487364f5c96444b.mesh", "res://.import/shakerPepper.obj-c8bcbecc9910080db487364f5c96444b.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

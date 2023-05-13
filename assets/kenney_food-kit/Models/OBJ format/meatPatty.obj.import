@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatPatty.obj-601711f1936c599ae2d99b76dab63efb.mesh"
+
+[deps]
+
+files=[ "res://.import/meatPatty.obj-601711f1936c599ae2d99b76dab63efb.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/meatPatty.obj"
+dest_files=[ "res://.import/meatPatty.obj-601711f1936c599ae2d99b76dab63efb.mesh", "res://.import/meatPatty.obj-601711f1936c599ae2d99b76dab63efb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

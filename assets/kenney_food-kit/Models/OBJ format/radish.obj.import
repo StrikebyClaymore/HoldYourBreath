@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/radish.obj-10970a018f9a851791e323f2229bbe05.mesh"
+
+[deps]
+
+files=[ "res://.import/radish.obj-10970a018f9a851791e323f2229bbe05.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/radish.obj"
+dest_files=[ "res://.import/radish.obj-10970a018f9a851791e323f2229bbe05.mesh", "res://.import/radish.obj-10970a018f9a851791e323f2229bbe05.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

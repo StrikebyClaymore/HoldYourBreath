@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/meatTenderizer.obj-e68fd781f96b412aff5d10f1970566ac.mesh"
+
+[deps]
+
+files=[ "res://.import/meatTenderizer.obj-e68fd781f96b412aff5d10f1970566ac.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/meatTenderizer.obj"
+dest_files=[ "res://.import/meatTenderizer.obj-e68fd781f96b412aff5d10f1970566ac.mesh", "res://.import/meatTenderizer.obj-e68fd781f96b412aff5d10f1970566ac.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/riceBall.obj-c574498e609b7843fb59277144fb923d.mesh"
+
+[deps]
+
+files=[ "res://.import/riceBall.obj-c574498e609b7843fb59277144fb923d.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/riceBall.obj"
+dest_files=[ "res://.import/riceBall.obj-c574498e609b7843fb59277144fb923d.mesh", "res://.import/riceBall.obj-c574498e609b7843fb59277144fb923d.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

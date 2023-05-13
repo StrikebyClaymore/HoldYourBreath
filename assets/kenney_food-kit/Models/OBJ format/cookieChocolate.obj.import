@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cookieChocolate.obj-df8df1c94187d836fbeab5013e1cf58c.mesh"
+
+[deps]
+
+files=[ "res://.import/cookieChocolate.obj-df8df1c94187d836fbeab5013e1cf58c.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/cookieChocolate.obj"
+dest_files=[ "res://.import/cookieChocolate.obj-df8df1c94187d836fbeab5013e1cf58c.mesh", "res://.import/cookieChocolate.obj-df8df1c94187d836fbeab5013e1cf58c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

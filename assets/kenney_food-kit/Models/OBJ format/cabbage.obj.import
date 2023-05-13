@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cabbage.obj-6151ca35f63cab1a90734511323c8ec2.mesh"
+
+[deps]
+
+files=[ "res://.import/cabbage.obj-6151ca35f63cab1a90734511323c8ec2.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/cabbage.obj"
+dest_files=[ "res://.import/cabbage.obj-6151ca35f63cab1a90734511323c8ec2.mesh", "res://.import/cabbage.obj-6151ca35f63cab1a90734511323c8ec2.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

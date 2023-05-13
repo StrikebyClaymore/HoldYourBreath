@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cuttingBoardJapanese.obj-621dce25eab167efcd138a822ad9a5b8.mesh"
+
+[deps]
+
+files=[ "res://.import/cuttingBoardJapanese.obj-621dce25eab167efcd138a822ad9a5b8.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/cuttingBoardJapanese.obj"
+dest_files=[ "res://.import/cuttingBoardJapanese.obj-621dce25eab167efcd138a822ad9a5b8.mesh", "res://.import/cuttingBoardJapanese.obj-621dce25eab167efcd138a822ad9a5b8.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

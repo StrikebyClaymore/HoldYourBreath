@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/glassWine.obj-c2353eab72f1e3724d1b1e50d67ac3dc.mesh"
+
+[deps]
+
+files=[ "res://.import/glassWine.obj-c2353eab72f1e3724d1b1e50d67ac3dc.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/glassWine.obj"
+dest_files=[ "res://.import/glassWine.obj-c2353eab72f1e3724d1b1e50d67ac3dc.mesh", "res://.import/glassWine.obj-c2353eab72f1e3724d1b1e50d67ac3dc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

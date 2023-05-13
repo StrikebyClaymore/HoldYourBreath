@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/cupTea.obj-def834a4dfb0bcc317daebb1ef16f5fb.mesh"
+
+[deps]
+
+files=[ "res://.import/cupTea.obj-def834a4dfb0bcc317daebb1ef16f5fb.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/cupTea.obj"
+dest_files=[ "res://.import/cupTea.obj-def834a4dfb0bcc317daebb1ef16f5fb.mesh", "res://.import/cupTea.obj-def834a4dfb0bcc317daebb1ef16f5fb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

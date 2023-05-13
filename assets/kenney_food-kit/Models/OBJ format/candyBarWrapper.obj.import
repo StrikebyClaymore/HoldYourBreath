@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/candyBarWrapper.obj-2fd4e140ee3adb4cd41e750f30149e7c.mesh"
+
+[deps]
+
+files=[ "res://.import/candyBarWrapper.obj-2fd4e140ee3adb4cd41e750f30149e7c.mesh" ]
+
+source_file="res://assets/kenney_food-kit/Models/OBJ format/candyBarWrapper.obj"
+dest_files=[ "res://.import/candyBarWrapper.obj-2fd4e140ee3adb4cd41e750f30149e7c.mesh", "res://.import/candyBarWrapper.obj-2fd4e140ee3adb4cd41e750f30149e7c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
